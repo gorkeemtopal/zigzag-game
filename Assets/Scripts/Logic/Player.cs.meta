@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 08f70951b27e76240a0640339b1d9dec
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _scorePopupPrefab: {fileID: 1125736110135084642, guid: 3562dee303755e14ea3953fc0e9d152a, type: 3}
+  - _uiCanvas: {instanceID: 0}
+  - _triggerDetection: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
